@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Hina Munir 👋</h1>
-<h3 align="center">Sr. Full Stack Developer | Blockchain Engineer | Project Manager</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D26,100:C9A227&height=180&section=header&text=Hi,%20I'm%20Hina%20Munir&fontSize=42&fontColor=F5EFE0&animation=fadeIn&fontAlignY=38&desc=Sr.%20Full%20Stack%20Developer%20%7C%20Blockchain%20Engineer%20%7C%20Project%20Manager&descSize=18&descAlignY=58&descColor=F5EFE0" />
 
 <p align="center">
 Building AI + Web3 products for 5+ years — leading teams that ship to the App Store and on-chain.<br/>
@@ -8,12 +7,12 @@ Currently building an AI-powered Sign Language Recognition System (real-time ges
 </p>
 
 <p align="center">
-  <a href="https://nextjs-hinamunir-portfolio.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/hina-munir813">💼 LinkedIn</a> •
-  <a href="mailto:Hinamunir813@gmail.com">✉️ Email</a>
+  <a href="https://nextjs-hinamunir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B2D26?style=for-the-badge&logo=vercel&logoColor=F5EFE0" /></a>
+  <a href="https://www.linkedin.com/in/hina-munir813"><img src="https://img.shields.io/badge/LinkedIn-C9A227?style=for-the-badge&logo=linkedin&logoColor=3E2723" /></a>
+  <a href="mailto:Hinamunir813@gmail.com"><img src="https://img.shields.io/badge/Email-8A9A82?style=for-the-badge&logo=gmail&logoColor=F5EFE0" /></a>
 </p>
 
----
+<img width="100%" height="2px" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2D26,50:C9A227,100:8A9A82&height=3" />
 
 ### 💡 What Interests Me
 
@@ -22,6 +21,8 @@ Currently building an AI-powered Sign Language Recognition System (real-time ges
 - Scalable cloud architecture & DevOps — AWS infrastructure, CI/CD, server administration
 - Mentoring engineers and leading cross-functional teams from idea to production
 - Exploring emerging frameworks and tools — always experimenting with something new
+
+<img width="100%" height="2px" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2D26,50:C9A227,100:8A9A82&height=3" />
 
 ### 🛠️ Tech Stack
 
@@ -62,19 +63,17 @@ Currently building an AI-powered Sign Language Recognition System (real-time ges
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-I also handle end-to-end deployment and server management — AWS EC2 instances, VPN servers, and DirectAdmin — alongside the AWS services above (S3, Lambda, Beanstalk, RDS, SES, CloudWatch).
+I also handle end-to-end deployment and server management — AWS EC2 instances, VPN servers, and DirectAdmin — alongside the AWS services above (S3, Lambda, SES, CloudWatch).
+
+<img width="100%" height="2px" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2D26,50:C9A227,100:8A9A82&height=3" />
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HinaMunir-Hm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinaMunir-Hm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HinaMunir-Hm&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HinaMunir-Hm&hide_border=true&background=00000000&ring=7B2D26&fire=C9A227&currStreakLabel=7B2D26&sideLabels=3E2723&currStreakNum=3E2723&sideNums=3E2723&dates=8A9A82" />
 </p>
 
----
+<img width="100%" height="2px" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A9A82,50:C9A227,100:7B2D26&height=3" />
 
 <p align="center"><i>Open to interesting Full Stack / Web3 / AI problems — feel free to reach out.</i></p>
